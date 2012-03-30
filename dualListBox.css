@@ -1,0 +1,67 @@
+﻿.countLabel {
+    color: gray;
+    font-style: italic;
+    display: none;
+}
+.storageBox {
+    display:none;
+}
+.copiedOption {
+    background-color:Yellow;
+}
+.dualListBox {
+    padding: 5px;
+    width: 610px;
+    display: inline;
+}
+.dualListBox > div {
+    float: left;
+}
+.dualListBox .dlb_left optgroup,
+.dualListBox .dlb_right optgroup {
+    padding: 5px;
+    font-weight: bold;
+    font-style: normal;
+    border-bottom: 1px solid #EEE;
+}
+.dualListBox .dlb_left option,
+.dualListBox .dlb_right option {
+    padding: 5px;
+}
+.dualListBox .dlb_middle {
+    text-align: center;
+    vertical-align: middle;
+    padding: 70px 5px 0;
+}
+.dualListBox select {
+	margin-top: 0;
+	border-radius: 0;	
+}
+.dualListBox .dlb_search {
+	border: 1px solid #CCC;
+	border-bottom: none;
+	padding: 5px;
+}
+.dualListBox .dlb_search input.medium {
+	width: 190px;
+}
+.dualListBox .dlb_label {
+	font-weight: bold;
+	padding: 5px 0;
+}
+.dualListBox .dlb_middle button {
+    display: block;
+    margin: 5px auto;
+}
+.dualListBox .dlb_list_right, 
+.dualListBox .dlb_list_left {
+    height: 200px;
+    width: 290px;
+    overflow: auto;
+}
+/**************************************************
+Clearfix
+**************************************************/
+.cfx:before, .cfx:after { content: "\0020"; display: block; height: 0; overflow: hidden; }
+.cfx:after { clear: both; }
+.cfx { zoom: 1; }
