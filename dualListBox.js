@@ -1,12 +1,26 @@
 ﻿/*
 *       Developed by Justin Mead
-*       ©2011 MeadMiracle
-*		www.meadmiracle.com / meadmiracle@gmail.com
-*       Version 1.3
-*       Testing: IE8/Windows XP
-*                Firefox/Windows XP
-*                Chrome/Windows XP
-*       Licensed under the Creative Commons GPL http://creativecommons.org/licenses/GPL/2.0/
+*       Copyright (c) 2011 MeadMiracle
+*       www.meadmiracle.com / meadmiracle@gmail.com
+*       Licensed under the MIT License http://opensource.org/licenses/MIT
+*
+*       Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), 
+*       to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or 
+*       sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+*       The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+*       THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+*       FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+*       WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*
+*       As this Dual Listbox jQuery Plug-in was initially released with GPL v2 License which was quite restrictive, I got the following explicit permission 
+*       to release it under MIT License from the original author and copyright holder.
+*       From: Justin Mead <xxxxxxxxxxx@gmail.com>
+*       Date: December 19, 2012, 4:11:28 PM PST
+*       To: Parvez <xxxxxxxxxxx@gmail.com>
+*       Cc: web@meadmiracle.com
+*       Subject: Re: Dual Listbox jQuery Plug-in
+*       Happy to help!  You have my permission to release my code under the MIT license.  Good luck with your project!
+*       Justin
 *
 *       OPTIONS LISTING:
 *           *transferMode               - the type of transfer to perform on items (see heading TRANSFER MODES)
